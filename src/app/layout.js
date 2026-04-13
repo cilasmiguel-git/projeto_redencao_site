@@ -24,7 +24,7 @@ export const metadata = {
     siteName: "Redenção Transporte e Turismo",
     images: [
       {
-        url: \"/projeto_redencao_site/images/banner-principal.png",
+        url: "/projeto_redencao_site/images/banner-principal.png",
         width: 1200,
         height: 630,
         alt: "Frota de Ônibus Redenção",

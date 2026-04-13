@@ -7,7 +7,7 @@ export default function Hero() {
     <section className={styles.hero}>
       <div className={styles.heroBackground}>
         <Image 
-          src=\"/projeto_redencao_site/images/banner_hero.png" 
+          src="/projeto_redencao_site/images/banner_hero.png" 
           alt="Banner Hero Redenção Transporte e Turismo" 
           fill 
           className={styles.heroImage}

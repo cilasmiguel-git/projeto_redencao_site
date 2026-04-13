@@ -8,7 +8,7 @@ export default function Header() {
       <div className={styles.headerContainer}>
         <Link href="/" className={styles.logoLink}>
           <Image 
-            src=\"/projeto_redencao_site/images/cropped-logo.png" 
+            src="/projeto_redencao_site/images/cropped-logo.png" 
             alt="Redenção Transporte e Turismo" 
             width={180} 
             height={50} 

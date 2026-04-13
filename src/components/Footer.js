@@ -10,7 +10,7 @@ export default function Footer() {
       <div className={`container ${styles.footerContainer}`}>
         <div className={styles.footerBrand}>
           <Image 
-            src=\"/projeto_redencao_site/images/cropped-logo.png" 
+            src="/projeto_redencao_site/images/cropped-logo.png" 
             alt="Redenção Transporte e Turismo" 
             width={180} 
             height={50} 
