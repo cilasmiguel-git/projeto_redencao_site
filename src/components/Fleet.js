@@ -58,10 +58,10 @@ export default function Fleet() {
       name: "G7 Leito Turismo",
       capacity: "46 passageiros",
       images: [
-        "/images/G7 Leito Turismo/g7.jpg",
-        "/images/G7 Leito Turismo/2039-1.jpg",
-        "/images/G7 Leito Turismo/2015-int.jpg",
-        "/images/G7 Leito Turismo/2039-5.jpg"
+        \"/projeto_redencao_site/images/G7 Leito Turismo/g7.jpg",
+        \"/projeto_redencao_site/images/G7 Leito Turismo/2039-1.jpg",
+        \"/projeto_redencao_site/images/G7 Leito Turismo/2015-int.jpg",
+        \"/projeto_redencao_site/images/G7 Leito Turismo/2039-5.jpg"
       ],
       features: [
         "Ar condicionado",
@@ -75,9 +75,9 @@ export default function Fleet() {
       name: "Executivo",
       capacity: "46 ou 50 passageiros",
       images: [
-        "/images/Executivo/executivo-externa.jpg",
-        "/images/Executivo/executivo-interna.jpg",
-        "/images/Executivo/frota1.png"
+        \"/projeto_redencao_site/images/Executivo/executivo-externa.jpg",
+        \"/projeto_redencao_site/images/Executivo/executivo-interna.jpg",
+        \"/projeto_redencao_site/images/Executivo/frota1.png"
       ],
       features: [
         "Ar condicionado",
@@ -91,11 +91,11 @@ export default function Fleet() {
       name: "Microônibus",
       capacity: "28 ou 36 passageiros",
       images: [
-        "/images/Microônibus/foto01-1.png",
-        "/images/Microônibus/2038-2-1.jpg",
-        "/images/Microônibus/2036-2.jpg",
-        "/images/Microônibus/2036-3.jpg",
-        "/images/Microônibus/2036-4.jpg"
+        \"/projeto_redencao_site/images/Microônibus/foto01-1.png",
+        \"/projeto_redencao_site/images/Microônibus/2038-2-1.jpg",
+        \"/projeto_redencao_site/images/Microônibus/2036-2.jpg",
+        \"/projeto_redencao_site/images/Microônibus/2036-3.jpg",
+        \"/projeto_redencao_site/images/Microônibus/2036-4.jpg"
       ],
       features: [
         "Ar condicionado",
@@ -109,7 +109,7 @@ export default function Fleet() {
       name: "Leito Turismo",
       capacity: "46 passageiros",
       images: [
-        "/images/Leito Turismo/frota2.png"
+        \"/projeto_redencao_site/images/Leito Turismo/frota2.png"
       ],
       features: [
         "Ar condicionado",
