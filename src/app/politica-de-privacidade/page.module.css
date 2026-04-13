@@ -1,0 +1,71 @@
+.policyPage {
+  padding-top: var(--spacing-xxl); /* To offset the fixed header */
+  background-color: var(--white);
+  min-height: 80vh;
+}
+
+.policyHeader {
+  background-color: var(--bg-color);
+  padding: var(--spacing-xl) 0;
+  text-align: center;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+.title {
+  color: var(--secondary-color);
+  font-size: 2.5rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.lastUpdated {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.policyContent {
+  padding: var(--spacing-xl) var(--spacing-md);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.section {
+  margin-bottom: var(--spacing-lg);
+}
+
+.sectionTitle {
+  color: var(--primary-dark);
+  font-size: 1.5rem;
+  margin-bottom: var(--spacing-md);
+  margin-top: var(--spacing-lg);
+}
+
+.text {
+  color: var(--text-primary);
+  line-height: 1.8;
+  margin-bottom: var(--spacing-sm);
+  font-size: 1.05rem;
+}
+
+.list {
+  padding-left: var(--spacing-lg);
+  margin-bottom: var(--spacing-md);
+  color: var(--text-primary);
+  line-height: 1.8;
+}
+
+.list li {
+  margin-bottom: var(--spacing-sm);
+}
+
+.homeLink {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: var(--spacing-lg);
+  color: var(--primary-color);
+  font-weight: 500;
+  transition: opacity var(--transition-fast);
+}
+
+.homeLink:hover {
+  opacity: 0.8;
+}
